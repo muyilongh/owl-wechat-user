@@ -8,12 +8,12 @@
 
 #### zip 下载地址
 
-[https://gitee.com/slowlyo/owl-wechat-user/repository/archive/master.zip](https://gitee.com/slowlyo/owl-wechat-user/repository/archive/master.zip)
+[https://gitee.com/muyilongh/owl-wechat-user/repository/archive/master.zip](https://gitee.com/muyilongh/owl-wechat-user/repository/archive/master.zip)
 
 #### composer
 
 ```bash
-composer require slowlyo/owl-wechat-user
+composer require muyilongh/owl-wechat-user
 ```
 
 ## 使用说明
@@ -132,7 +132,7 @@ class Controller extends BaseController
 1. 如何重写后台功能?
     - 覆盖 `users` 路由
 
-2. 默认头像 `public/extensions/slowlyo/owl-wechat-user/images/avatar.jpg`
+2. 默认头像 `public/extensions/muyilongh/owl-wechat-user/images/avatar.jpg`
     - 有需要可以自行替换
 
 3. 自行阅读源码
